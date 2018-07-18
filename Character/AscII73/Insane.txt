@@ -1,0 +1,121 @@
+[FILE-DATE]
+
+file-saved-date: 2018 7 18 11 4
+
+[NAME-ACCOUNT]
+
+character-name     = Insane
+account-name       = prueba
+
+[STATUS]
+
+character-profile 	=__________
+character-location   = NONE
+character-guild-name = NONE
+character-guild-GUID = -1
+character-guild-rank = -1
+character-loc-map = Aresden
+character-loc-x   = 117
+character-loc-y   = 55
+
+character-HP       = 26
+character-MP       = 30
+character-SP       = 0
+character-LEVEL    = 1
+character-RATING   = 0
+character-STR      = 10
+character-INT      = 14
+character-VIT      = 12
+character-DEX      = 10
+character-MAG      = 14
+character-CHARISMA = 10
+character-LUCK     = 10
+character-EXP      = 0
+character-LU_Pool  = 3
+character-EK-Count = 0
+character-PK-Count = 0
+character-reward-gold = 0
+character-downskillindex = -1
+character-IDnum1 = 14476
+character-IDnum2 = 607
+character-IDnum3 = 1
+party-rank = -1
+sex-status       = 2
+skin-status      = 1
+hairstyle-status = 6
+haircolor-status = 13
+underwear-status = 5
+hunger-status    = 100
+timeleft-shutup  = 0
+timeleft-rating  = 0
+timeleft-force-recall  = 0
+timeleft-firm-staminar = 0
+admin-user-level = 0
+penalty-block-date = 0 0 0
+character-quest-number = 0
+character-quest-ID     = 0
+current-quest-count    = 0
+quest-reward-type      = 0
+quest-reward-amount    = 0
+character-contribution = 0
+character-war-contribution = 0
+character-quest-completed = 0
+special-event-id = 200081
+super-attack-left = 0
+reserved-fightzone-id = 0 0 0
+special-ability-time = 1170
+locked-map-name = NONE
+locked-map-time = 0
+crusade-job = 0
+crusade-GUID = 0
+construct-point = 0
+dead-penalty-time = 538976258
+party-id = 0
+gizon-item-upgrade-left = 0
+majestic-level = 0
+character-Deaths = 0
+character-TotalDGKills = 0
+character-DGPoints = 0
+character-TotalDGDeaths = 0
+character-DGKills = 0
+max-ek = 0
+ip2 = ip
+ip = 192.168.1.156
+heldenian-GUID = 0
+
+
+appr1 = 1749
+appr2 = 0
+appr3 = 1
+appr4 = 0
+appr-color = 45056
+
+[ITEMLIST]
+
+character-item = Dagger               1 0 0 0 0 0 0 0 0 300 0
+character-item = Map                  1 0 0 0 0 0 0 0 0 300 0
+character-item = RedPotion            1 0 0 0 0 0 0 0 0 300 0
+character-item = BluePotion           1 0 0 0 0 0 0 0 0 300 0
+character-item = GreenPotion          1 0 0 0 0 0 0 0 0 300 0
+character-item = Chemise(W)           1 0 0 0 0 11 0 0 0 300 0
+
+
+
+
+[MAGIC-SKILL-MASTERY]
+
+//------------------012345678901234567890123456789012345678901234567890
+magic-mastery     = 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+skill-mastery     = 0 0 0 4 24 20 0 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+skill-SSN     = 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+[ITEM-EQUIP-STATUS]
+
+item-equip-status = 00000100000000000000000000000000000000000000000000
+item-position-x = 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 
+item-position-y = 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 
+
+[EOF]
+
+
+
+     

@@ -1,0 +1,11 @@
+;Guild file - Updated 2017/ 4/ 3/ 1/13
+;Just created
+
+[GUILD-INFO]
+
+guildmaster-name     = GM1
+guild-GUID = 45974305
+guild-location       = aresden
+
+[GUILDSMAN]
+
